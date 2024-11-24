@@ -71,7 +71,7 @@ php artisan db:seed
 <img src="img/table.png" alt="table">
 
 ## ER図
-![alt](erd.drawio)
+![ER図](erd.png)
 
 ## URL
 - 開発環境：http://localhost/
