@@ -1,8 +1,8 @@
 # Atte(ある企業の勤怠管理システム)
-<img src="img/date.png" alt="date">
-<img src="img/stamp.png" alt="stamp">
-<img src="img/register.png" alt="register">
-<img src="img/login.png" alt="login">
+<img src="src/img/date.png" alt="date">
+<img src="src/img/stamp.png" alt="stamp">
+<img src="src/img/register.png" alt="register">
+<img src="src/img/login.png" alt="login">
 
 ## 作成した目的
 人事評価のため
@@ -68,10 +68,10 @@ php artisan db:seed
 - MySQL8.0.26
 
 ##　テーブル設計
-<img src="img/table.png" alt="table">
+<img src="src/img/table.png" alt="table">
 
 ## ER図
-![ER図](erd.png)
+![ER図](src/erd.png)
 
 ## URL
 - 開発環境：http://localhost/
